@@ -25,3 +25,38 @@ section{
     font-weight:600 ;
     border-radius: 6px;
 }
+.grow-bigger{
+}
+.half-width1{
+    width: 50%;
+    padding: 1%;
+}
+.half-width1 img{
+    width: 60%;
+}
+.link-button1{
+    text-decoration: none;
+    background-image: linear-gradient(red, black);
+    padding: 10px 30px;
+    color: white;
+    font-weight:600 ;
+    border-radius: 6px;
+}
+.goal{
+
+}
+.half-width2{
+    width: 50%;
+    padding: 1%;
+}
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(red, black);
+    padding: 10px 30px;
+    color: white;
+    font-weight:600 ;
+    border-radius: 6px;
+}
+.half-width2 img{
+    width: 60%;
+}
