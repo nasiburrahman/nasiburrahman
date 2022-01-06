@@ -1,0 +1,27 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+h1{
+    font-size: 40px;
+}
+.purple-color{
+    color:blueviolet
+}
+section{
+    display:flex;
+}
+.half-width{
+    width: 50%;
+    padding: 1%;
+}
+.half-width img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red, black);
+    padding: 10px 30px;
+    color: white;
+    font-weight:600 ;
+    border-radius: 6px;
+}
