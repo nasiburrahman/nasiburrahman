@@ -60,3 +60,15 @@ section{
 .half-width2 img{
     width: 60%;
 }
+.flexible-container1{
+
+}
+.fl-1{
+    background-image: url(images/illustrators/illustrator-1.png);
+}
+.fl-2{
+    background-image: url(images/illustrators/illustrator-2.png);
+}
+.fl-3{
+    background-image: url(images/illustrators/illustrator-3.png);
+}
